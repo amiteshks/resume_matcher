@@ -1,0 +1,176 @@
+JANE AUSTIN
+(585) 216-5371
+jayanthi.prasannas@gmail.com
+www.linkedin.com/in/jaypras
+Experienced QA white-box tester in developing test automation frameworks for large-scale
+projects from an end to end perspective including front end, middle tier services and back end
+data providers that allow for consistently repeatable, reliable testing solutions.
+▪
+▪
+▪
+▪
+▪
+▪
+▪
+8 years of experience in developing on-time delivery of projects in tight deadlines to test software on
+cutting-edge and growing platforms in Java.
+Well versed with QA standards and methodologies and hands-on knowledge in all phases of the
+Software Development Life Cycle and Software Testing Life Cycle with critical eye to error-guessing.
+Thorough understanding of Agile, Waterfall methodologies and industry best practices.
+Strong ability to interpret business and functional requirements with minimal documentation.
+In depth knowledge of automation testing using Junit, Selenium WebDriver, JDBC API,
+SoapUI/Ready API tool; Exposure to testing Android mobile applications using Appium with Android
+Studio.
+Liaison with development teams, end-to-end test execution team and clients to ensure quality thresholds
+are met.
+Versatile development and testing experience in Telecommunications, Media, Merchandise and Jewelry
+industries.
+TECHNICAL SKILLS
+▪
+▪
+▪
+▪
+Automation Tools: Selenium IDE/WebDriver/Grid, SoapUI,
+Cucumber, Maven, Appium
+Languages/Frameworks: Core Java, Junit, TestNG, Exposure
+to XML, HTML5, JavaScript
+Testing Methodologies: Unit Testing, Integration Testing, User
+Interface Testing, System Testing, Performance/Load Testing,
+Smoke Testing, Regression Testing, Database testing,
+Acceptance Testing, Functionality Testing, communication, planning, teamwork
+▪
+▪
+▪
+IDE: Eclipse neon, Android Studio ▪
+Bug tracking: JIRA
+RDBMS: MS SQL Server, MySQL
+Scripting: JavaScript
+OS: Windows 7/10
+CAREER HISTORY
+Software Development Engineer in Test (SDET) [Technologies Used: Java 8.0, Selenium WebDriver/Grid,
+MySQL Workbench 6.3 CE, Maven, Jenkins, Tomcat Server 8, Junit, TestNG, Apache-POI, Cucumber, Eclipse neon]
+Sansa Technology LLC, Dublin, California
+Page 1 | 4
+▪
+▪
+▪
+▪
+▪
+▪
+Enhanced the community-based web-portal SansaAds by participating in all aspects of full lifecycle
+development methodology and related quality concepts and processes.
+Involved in reviewing business and functional requirements to produce strategies and cases.
+Identified modules for white-box testing and involved in design, build, test and deployment of effective
+test automation solutions using Selenium WebDriver, Java, TestNG, Cucumber, Maven.
+Implemented Page Object Model framework to represent web pages; Developed BDD tests using
+Cucumber; Performed all aspects of verification (functional, structural, regression and system testing).
+Developed Hybrid framework, a combination of Keyword Driven and Data Driven frameworks to retrieve
+test actions, test data from Excel files and SQL Databases; testing done in multi-tiered based
+architecture; Parallel testing done using Selenium Grid; Created HTML reports using ExtentReports.
+Worked in a highly dynamic AGILE environment, assisting the team by providing automation strategies
+and implementing improvements; Performed Defect tracking and Management in JIRA and generated
+automated daily/weekly reports.
+Module Lead [Technologies Used: Sun Solaris, JDK1.4, PL/SQL, Servlets, EJB 2.0, Oracle 9i, ANT, Log4J, Eclipse
+3.0, MSynergy, WebLogic Server 8.1 SP4]
+Verizon Data Services, India and USA
+▪
+Lead a team of 7 engineers to design and develop complete validation engine of telecommunication
+system AccOrd-Enhancement using Java and XMLBeans.
+▪
+Lead the team in requirements specification calls with responsibility of signing off Business
+Requirements Documents (BRD). Preparation of LOE and detailed design documents.
+▪
+Lead the team to enhance the performance of production database in co-ordination with the on-site
+team; Involved in the production support, process improvements, testing approaches and played an
+important role in fixing and deploying production related patches.
+▪
+Lead team for day to day execution of all software quality assurance deliverables. Build QA Allocation
+plans and worked on steps required for mitigation on delivery risks during execution phase.
+▪
+Involved in end-to-end testing and problem fixing of application.
+Senior Program Analyst [Technologies Used: JAVA, SQL 8.0, PLSQL 8.1.6, STRUTS, EJB (including MDB),
+Servlet, Toad, Eclipse, BEA Web Logic-8.1, UNIX]
+Verizon Data Services, India
+▪
+One of the key senior members to reengineer the Access Ordering System from PL/SQL to new system
+using J2EE.; Involved in review meetings for the design documents created for developing the system
+in web based platform.
+▪
+Supervised a five-member software QA testing team in developing and implementing quality-assurance
+and quality-control methodologies to ensure compliance with QA standards, federal regulations and
+customer specifications.
+▪
+Developed a Webservice for invocation of Access Validation Engine using WebLogic integration.
+▪
+Responsible for onsite delivery to client, effort estimation and competency development.
+▪
+Involved in production support and played an important role in fixing production issues.
+Program Analyst [Technologies Used: JAVA, SQL 8.0, PLSQL 8.1.6, STRUTS, EJB (including MDB), Servlet, Toad,
+Eclipse, BEA Web Logic-8.1, UNIX]
+Silverline Technologies Inc., India
+▪
+Project: CAFÉ for client: Verizon Inc., USA
+--Technologies Used: RS6000 on AIX, Novell Server (File Server, DX/Pentium Workstations), Windows
+2000 Client/Server, UNIX, Developer 2000, C, Pro*C SQL* Net, Oracle 8i, PVCS
+Page 2 | 4
+▪
+▪
+▪
+▪
+▪
+--Worked in the maintenance of mainframe based Carrier Access Billing System and a Service Order
+Provisioning system, to receive ASRs from the long-distance customers of Verizon
+Telecommunications.
+--Played major role in all SDLC activities: Impact analysis, Design and Development.
+--Responsible for impact analysis reviews; Designed and implemented test cases, functional rules as
+per BRD addressing areas including database impacts, software scenarios, regression testing, negative
+testing, error/bug retests and usability.
+Project: Able Master for client: Able Master Inc., Hong Kong, China
+--Technologies Used: Java 2.0, JSP, HTML, DHTML, XML, JavaScript, MS-SQL SERVER 7.0,
+MS-SQL SERVER 8.0, Visual Source Safe 6.0, Erwin 3.1, Adobe Photoshop, Macromedia Dream
+weaver 4.0, Seagate Crystal Reports 8.0, Rational Rose.
+--Developed a multi-lingual web-based jewelry application with integrated accounting for the client Able
+Master Ltd., which is a part of Mabelle group, a retail giant in Hong Kong.
+--Involved in Database Designing; Developing Prototype; Designing and Coding of UI screens, dynamic
+Reports; Preparation of traceability matrix; design and code reviews.
+--Performed system, unit, performance, load, regression, stress and data interface testing.
+--Provided client developer teams with detailed reports on quality metrics, identified bugs/flaws and
+recommended fixes leading to a no-fault audit finding.
+Project: Merchandise Activity Planning System for client: Stirling Douglas Group Inc., Canada
+--Technologies Used: Visual Basic 6.0, Oracle 8i, Visual Source Safe Version Control, TOAD.
+--Developed a 3-tier planning architecture for the retail industry that allows clients to look data at a 3D
+perspective.
+--Responsible for project planning/estimation, coding, technical discussions, creating design
+documents, design walkthroughs, coding, technical reviews and code walkthroughs, testing,
+implementation, defect prevention activities and maintaining project metrics.
+--Involved in white-box testing, smoke testing, exploratory testing, GUI testing, negative testing and
+simplification of data query and retrieval using Oracle.
+Project: Web based Time Tracking and Efforts Monitoring System for client: Silverline Technologies
+Inc., USA
+--Technologies Used: ASP, HTML, Java Script, VB Script, Seagate Crystal Reports 8.0, SQL Server
+7.0.
+--Developed a web-based tool for the project managers to manage their projects effectively viz.,
+monitoring, tracking the efforts and issues related to a project.
+-- Analyzed business requirements, conducted gap analysis, estimated project scope and worked
+closely with fellow developers to deliver high-quality software solution.
+Project: Resume Processing System for client: Silverline Technologies Inc., USA
+--Technologies Used: ASP, HTML, VB Script, Java Script, SQL Server 7.0
+--Developed a web-based package for a human resource consultant having a large clientele base.
+--Responsible for analysis, designing of normalized tables, coding and testing of the system at all
+levels.
+--Involved in peer review and documenting the review summary and refactoring the code.
+Project: FDC-IV for client: First Data Corporation, USA
+--Technologies Used: HTML, 8086 AL, ASP, Java Script, C, C++
+, EXAMDIFF, WINDIFF, SR-32, SUPER
+TEXT SEARCH, MS Office
+--Involved largely in analysis of Y2K date fields in codes written in various languages.
+--Responsible for the analysis of Programs in various languages to identify non-compliance and
+correcting them. They include programs in the COBOL, Rexx, SAS, Easytrieve, TCL, Assembler,
+DYL280 programs.
+Page 3 | 4
+CERTIFICATIONS & EDUCATION
+ISTQB Certified Tester, Foundation Level (CTFL)
+MBA, Human Resources Management
+Master of Science in Computer Technology, Coimbatore Institute of Technology, India
+Bachelor of Science in Computer Technology, Coimbatore Institute of technology, India
+Page 4 | 4

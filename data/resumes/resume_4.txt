@@ -1,0 +1,87 @@
+
+MAN SUNG  
+sansacorp105@gmail.com
+(408) 883-3334
+
+SUMMARY
+Solutions-driven Business Analyst looking for entry-level position in areas of business analysis and product management. Adept at creating and expanding relationships with key decision makers and peers, gaining trust and respect on a professional and personal level, establishing myself as an asset to the company.
+SYNOPSIS
+
+·	Worked as a business analyst on both waterfall and agile methodologies while testing a mobile based application for electricians and field engineers.
+·	Detail oriented electrical engineer experienced in embedded systems software, application software development and end to end QA.
+·	Investigated and identified requirements via process flows, use cases, interviewing, and determining present state.
+·	Experience in working with agile software development team 
+·	Skilled in analysing and translating complex information into readable format 
+·	Experienced in preparing excellent documentation on business requirements.
+·	Translated business requirements into functional requirements for development and QA teams. 
+·	Strong analytical and documentation skills accompanied by problem solving skills.
+·	An eye for detail accompanied by client interaction skills.
+·	Team player with strong communication skills.
+
+EDUCATION 
+
+Master of Science in Electrical Engineering 					| July 2015
+Wright State University, Dayton, OH 
+
+Bachelor of Engineering in Telecommunications				| July 2013      
+Visweswaraya Technical University, Bangalore, India
+
+
+TECHNICAL SKILLS
+Exposure:	Tableau Desktop, SQL, Visio, Jeera, Python, Visual C++ studio
+Expertise: 	M.S Office, C, Embedded C, VHDL, Verilog, MATLAB & Simulink
+Hardware:	Soldering PCBs, operating- CRO, Function Generator and interfacing FPGA.
+
+
+WORK EXPERIENCE
+
+Jr. Programmer /Business Analyst				| Feb 2016 – Dec 2017
+Anica Inc. on contract with Sempra Energy-SDG&E, San Diego, CA 
+
+Worked for the engineering team that developed the app for hand held devices (Category: Industrial grade building automation) used by Electrical field technicians to get and update work order information. Also, interfaced between the project manager and the technical team.
+
+·	Responsible for coordinating design, development, and testing efforts for our feature. 
+·	Interfaced with program manager getting requirements/mocks for new features, decide test plan, perform end-to-end testing once implementation complete. Created FRDs/BRDs to maintain task backlog with functional and non-functional requirements.
+·	Created and scheduled meeting agenda between the clients and developing team.
+·	Interfaced with developers to arrive as part of requirements/mocks, prioritizing user-cases and help with estimation/deadlines for features.
+·	Designed test-plan, finalized test-cases with Program Manager and owned end-to-end testing of the sub-system of our product.
+·	Tested for data exchange between the Android app and legacy SAP based Job Queue, Scheduler Management system.
+·	Used SAP ABAP Programming, API to interface with Microsoft Azure and Android emulator/ASUS device.
+·	Tests scoped from uploading data from test device onto the cloud (Microsoft Azure) and using SAP to downloading data into Android devices and vice versa.
+
+
+Jr. Engineer/Analyst | Electronics Division			| June – March 2013
+Bharat Heavy Electricals Limited (BHEL), Bangalore 
+
+Studied and worked on PID Controllers, Wireless Sensors and their applications in industries by witnessing the relative projects being carried out in BHEL. 
+·	Created FRDs to systematically understand the functional and non-functional requirements of sensors and controllers.
+·	Helped design business flow diagrams and use cases- both black box and brief figures to make gap and impact analysis.
+·	Performed brief process mapping to understand and make comparison between the operations of sensors and controllers to accordingly test them and draw use cases.
+ 
+ACADEMIC PROJECTS 
+
+Hardware based projects:
+Implementation of Automatic Train Protection (ATP) and Automatic Train Control (ATC) 
+•	Implemented the concept of an Unmanned Train System on self-built models of a Locomotive and Signal Posts. Used NXP-P89V51RD2 microcontrollers, programmed using Embedded C. Project done under guidance of engineers from Bharat Heavy Electricals Limited, Bangalore.
+•	Locomotive speed control was based on look-up table model of signal posts coded into the microcontrollers. 
+•	Gained recognition for presenting the project as a paper in the National Conference on ‘Recent Trends in Electronics and Communication’.
+
+Implementation of Logic Analyzer and Waveform Viewer on interfacing FPGA, Microprocessor and PC
+Implemented a single-level triggering LA/WV system that collects data onto a FPGA board that is reflected on the PC through a microprocessor via USB Port supporting both digital and analog channels. 
+
+Software based projects:
+Independent Study | Spectral Correlation of Digital and Analog Modulated Signals
+Studied and analyzed Spectral Correlation Functions applicable on Cyclostationary signals to identify and characterize types of digital and analog modulated signals using MATLAB modelling. Evaluated and compared between the strengths of SCF against Power Spectral Density functions.
+
+Cyclostationary Analysis of LPI Radars
+Performed cyclostationary analysis on LPI Radar signals using Waveform Modification- frequency agility, pulse coding, and low power by simulating a spectral correlation algorithm in MATLAB/Simulink on patterns formed by two LPI waveforms.
+
+Traditional and true Single User Detection Scheme for FD-MC-CDMA Receiver with limited information using MATLAB
+Implemented a unique receiver design using the Hadamard-Walsh code matrix to determine the probability of users on the system and concluded a comparison with the MMSEC Receiver to represent the BER performance as a function of Average SNR using MATLAB.
+
+Optimum MUD for MC-CDMA v/s FD-MC-CDMA in a Multipath Fading Channel
+Studied and obtained results showing that FD-MC-CDMA system outperforms the MC-CDMA system and also proves that the increased performance is gained using an optimum MUD receiver for a FD-MC-CDMA system. Simulated a comparison of BER as a function of SNR and the number of users on both the systems using MATLAB
+
+Implementation of Sign Language and its Detection: Image Processing using FPGA 
+IISc (WorldServe), Bangalore
+Implemented Erosion and Dilution methods on pictures of hand signs for numbers using MATLAB & Simulink.

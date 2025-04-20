@@ -1,0 +1,292 @@
+Amitesh Sinha
+amiteshks@gmail.com | (510) 512 6370 |
+Linkedin: https://www.linkedin.com/in/amitesh-sinha-5538131/
+Github: https://github.com/amiteshks
+EXPERIENCE SUMMARY
+Dynamic and visionary AI ML Architect with proven experience specializing in Machine
+Learning (ML) and Artificial Intelligence (AI), including large-scale, high volume
+platforms. Expert in designing, deploying, and operating advanced AI/ML models, such
+as Generative AI, Predictive AI, Agentic AI, Deep Neural Networks (DNNs) and Large
+Language Models (LLMs/Generative AI), in fast-paced, rapidly evolving environments.
+Adept at aligning cutting-edge AI/ML technologies with business objectives to deliver
+impactful solutions.
+Proven ability to build and lead diverse, high-performing global teams, fostering a
+culture of innovation, collaboration, and continuous improvement. Demonstrated
+expertise in shaping and executing AI and ML strategies, driving innovation in NLP,
+semantic search, summarization, recommendation engine, personalization, customer
+segmentation, Computer vision and data-driven product development. Skilled at
+overseeing the integration of complex AI/ML systems within scalable, secure
+architectures while collaborating with cross-functional partners to align initiatives with
+broader company goals.
+Experienced in advancing data science capabilities and developing robust roadmaps to
+support organizational growth. Passionate about customer-centric development and
+operational excellence, with a strong focus on measurable business impact and
+exceptional user experiences. Known for solving complex engineering challenges,
+driving product R&D, and delivering industry-leading solutions that redefine
+technological standards.
+SKILLS
+Machine Learning & AI: Artificial General Intelligence • Generative AI (GenAI) • Agentic AI
+• Multi Agent Systems • Natural Language Processing (NLP) • Large Language Models
+(LLMs) • Embeddings & vector Databases • Semantic Search • Predictive AI - Linear
+Regressions, Logistic Regressions, Decision Trees, Anomaly Detection, Time Series
+forecasting • Open AI APIs • Amazon Bedroc and Sagemaker • Deep Learning: DNNs, CNNs,
+RNNs, Neural Networks • Computer Vision: Image Recognition • Supervised & Unsupervised
+Learning Models • Recommendation Engines, Personalization • ML Operations (MLOps) and
+LLMOps • Scikit-Learn • LangChain, LangGraph, LangSmith • Prompt Engineering• LLM
+Models & Embeddings Technologies, such as AWS Bedrock, Sagemaker, LLaMA 2/3, BERT ,
+Open AI APIs, Pinecone, Vertex AI
+Data Engineering & Analytics: Data Modeling • Data Warehousing • BI & Analytics •
+Microsoft Power BI • Fabric for Data Pipelines • A/B Testing • LTV (Lifetime Value) Analytics
+• Unstructured Data Processing • Data Governance • Quantitative Research • Data-Driven
+Decision Making • Informatics Data Science • Statistical Inference • Statistical Modeling •
+Causal Inference • Applied Mathematics • Operations Research
+Technology & Software Development: Software as a Service (SaaS) • Cloud Services (AWS,
+Azure, GCP) • Distributed and Highly Scalable Products and Platforms • B2C and B2B
+Applications • Agile Development & Frameworks • MERN Stack (React, Node.js, MongoDB,
+Express) • Microservices • DevOps • Docker, Kubernetes • Object-Oriented Analysis and
+Design • Java EE • Scala • Service-Oriented Architecture (Web Services, SOAP , RESTful
+Services) • Mobile Development • Ruby, Ruby on Rails • C# • SQL, PL/SQL • Programming
+Languages (Python, Java, JavaScript, TypeScript, Scala)
+EDUCATION
+●
+●
+●
+Master of Business Administration, General Management, Golden Gate University, San
+Francisco, CA
+Master of Science, Computer Science, California State University, Fresno, CA
+Bachelor of Engineering, Electronics & Communication Engineering, BITS Mesra, India
+CERTIFICATIONS
+●
+●
+●
+●
+Machine Learning and Artificial Intelligence:
+o Professional Certificate in Machine Learning and Artificial Intelligence –
+University of California, Berkeley
+o AWS Certified Machine Learning Specialty Certification
+o Machine Learning Certification – Cornell University
+Leadership:
+o Executive Leadership Certification - Cornell University
+AWS:
+o AWS Certified Solutions Architect – Associate Certification
+o AWS Certified Machine Learning Specialty Certification
+Java:
+o Sun Certified Enterprise Architect (SCEA)
+o Sun Certified Java Developer (SCJD)
+PATENTS & PUBLICATIONS
+●
+Developed and Patented inventions to measure Customer Health in the SAAS
+environment.
+●
+●
+Developed Patent Pending Technology for identifying non-real, duplicate, and
+unengaged survey takers.
+Published papers at numerous International Conferences in the field of Software
+Engineering and Architecture.
+PROFESSIONAL EXPERIENCE
+December 2022 – Current: Chief AI Architect (Director of Engineering, AI
+Architecture) at Paylocity Inc., San Francisco Bay Area
+Led and defined the strategic vision for ML and AI initiatives, driving innovation in
+Generative AI, Agentic AI, Predictive AI, and advanced Machine Learning technologies.
+Architected and implemented large-scale AI/ML solutions, optimizing for scalability,
+performance, and real-time automation workflows.
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Designed and deployed multi-agent AI systems powered by LLMs, orchestrating
+complex workflows for intelligent automation.
+Spearheaded the development of cloud-native ML platforms across AWS, Azure,
+and GCP, integrating AI models into distributed microservices architectures.
+Led data modeling, ETL/EL T , and data warehousing implementation, ensuring
+robust data pipelines, governance frameworks, and high-performance
+analytics.
+Led MLOps and DevOps best practices, streamlining CI/CD, model deployment,
+monitoring, and retraining for production AI systems.
+Optimized Python- and SQL-based data processing workflows, leveraging Spark,
+Airflow, and scalable analytics frameworks.
+Integrated AI/ML frameworks like TensorFlow, PyTorch, and scikit-learn into
+production pipelines, enhancing efficiency and adoption.
+Championed Generative AI adoption, accelerating software development, testing,
+and product innovation.
+Fostered a culture of continuous learning, hiring, mentoring, and retaining top-tier
+ML and data engineering talent.
+Established alerting and monitoring strategies with LangSmith and Datadog,
+enabling data-driven decision-making.
+Established and led AI governance to ensure compliance with data governance,
+privacy, security, and model explainability standards.
+Technology Stack: TensorFlow, PyTorch, Scikit-learn, XGBoost, BERT , OpenAI, Amazon ML
+Models (Comprehend, Rekognition, Forecast, Personalize, Textract, Transcribe), Time Series
+Models (ARIMA, LSTMs, Prophet), LangChain, LangGraph, LangSmith, SageMaker Pipelines,
+Feature Store, Elasticsearch, Apache Flink, Apache Kafka Streams, Amazon Redshift,
+Snowflake, Python, Java EE (Spring Boot), Node.js (Express), React.js, Next.js, TypeScript,
+GraphQL, PostgreSQL, MySQL, Redis, MongoDB.
+May 2013 – December 2022: Principal Technical Architect, AI/ML and Advanced
+Analytics Engineering (Director of Engineering, AI and Data) at Workday Inc., San
+Francisco Bay Area
+Delivered enterprise-scale AI/ML solutions, powering ML-driven analytics,
+personalization, and real-time decision-making for HCM, Financials, and Analytical
+products.
+●
+●
+●
+●
+●
+●
+●
+●
+●
+●
+Architected and deployed scalable ML models for recommendation engines,
+sentiment analysis, anomaly detection, and semantic search, improving
+forecasting capabilities and operational efficiency.
+Designed and managed large-scale data pipelines, integrating ETL/EL T
+processes with data modeling best practices to enable real-time analytics.
+Led the development of multi-cloud data solutions on AWS, Azure, and GCP,
+ensuring security, scalability, and performance.
+Championed agile methodologies, optimizing sprint planning, backlog grooming,
+and release management for data engineering and AI teams.
+Implemented MLOps frameworks, ensuring CI/CD pipelines, continuous
+monitoring, and automated model retraining.
+Optimized SQL and Python-based data workflows, leveraging Apache Spark,
+Hadoop, and advanced data processing frameworks.
+Pioneered data governance and compliance practices, addressing privacy,
+security, and bias mitigation challenges.
+Developed BI and analytics dashboards using Microsoft Power BI to provide
+actionable insights across business units.
+Led cross-functional collaboration with product managers and data engineers,
+ensuring seamless ML integration into Workday’s enterprise applications.
+Hired, mentored, and retained top engineering talent, fostering a
+high-performing AI and data engineering organization.
+Technology Stack: Scikit-learn, Reinforcement Learning, Time Series Models (ARIMA,
+LSTMs, Prophet), Isolation Forest, Autoencoders, Elasticsearch, OpenAI Embeddings, FAISS,
+Apache Spark, Apache Flink, Apache Kafka Streams, Amazon Redshift, Snowflake, Apache
+Hive, Apache Airflow, AWS Glue, AWS (S3, SageMaker, Lambda, ECS, EKS, DynamoDB),
+Kubernetes, Docker, Terraform, MLflow, SageMaker Pipelines, Feature Store, Java EE (Spring
+Boot), Node.js (Express), React.js, Next.js, TypeScript, GraphQL, PostgreSQL, MySQL, Redis,
+MongoDB, Parquet.
+May 2012 – April 2013: Technical Architect, Data Engineering at Apple Inc.,
+Cupertino, CA
+Led a global data engineering and software organization, delivering retail-focused SaaS
+solutions to enhance Apple Retail’s eCommerce, in-store operations, and data-driven
+customer experiences. Designed and implemented large-scale data platforms, AI-driven
+personalization models, and real-time inventory management systems, ensuring
+seamless omnichannel operations and high availability during peak shopping seasons.
+Key Responsibilities:
+●
+●
+●
+●
+●
+●
+●
+●
+Architected and managed data platforms, overseeing ETL pipelines, data
+warehouses, and real-time analytics systems to power Apple Retail’s eCommerce
+and supply chain operations.
+Developed and optimized Apple’s retail eCommerce platform, enabling
+real-time product availability tracking and improving inventory forecasting for
+seamless shopping experiences.
+Led the design and deployment of AI-driven personalization features,
+enhancing customer engagement with recommendation engines and real-time
+promotions.
+Ensured peak-season scalability, delivering mission-critical retail data solutions
+on aggressive timelines to support high-traffic shopping events (e.g., Black Friday,
+Holiday Season).
+Managed multi-cloud and on-premise data infrastructure, leveraging Teradata,
+Hadoop, Oracle DB, and distributed computing frameworks for
+high-performance analytics.
+Designed scalable ETL processes, integrating Apache Hadoop, MapReduce, and
+Teradata to process large datasets efficiently and drive real-time business
+intelligence.
+Fostered a data-driven engineering culture, mentoring teams in best practices
+for data governance, security, and performance optimization.
+Collaborated cross-functionally with product, design, and operations teams,
+ensuring data initiatives aligned with business objectives and customer
+experience goals.
+Technology Stack: Teradata, Oracle Data Warehouse, Apache Hadoop, MapReduce, Cron
+Jobs, Apache Hadoop 1.x, HDFS, Apache Hive, Cognos BI, MicroStrategy, SAP BusinessObjects,
+ATG Web Commerce (Oracle ATG), IBM WebSphere Commerce, Real-Time Inventory
+Management Systems
+October 2008 – April 2013: Co-Founder and Chief Technologist at Sansa Technology,
+Milpitas, CA
+Co-founded an EduTech company, developing a global learning platform that enabled
+real-time and on-demand course delivery with seamless instructor-student
+collaboration..
+●
+●
+●
+●
+●
+Scaled the engineering team from 0 to 50, driving product innovation, platform
+adoption, and business growth.
+Defined and executed a strategic technical roadmap, ensuring alignment with
+business objectives and long-term scalability.
+Led the engineering team in developing secure, scalable, and high-performance
+software solutions, meeting evolving market demands.
+Established and enforced best practices in software development, architecture,
+and operational excellence, ensuring efficiency and reliability.
+Partnered closely with customers and stakeholders to align technical solutions
+with user needs and business strategy.
+Technology Stack: Java EE 6, JBoss 7.1, Jersey (RESTful Web Services), Integrations, JAXB,
+Struts2 MVC, Hibernate, Ajax, JSP , XML, Eclipse IDE.
+March 2005 – March 2008: Technical Architect at Capgemini(Client: Fidelity
+Investment, Merrimack, NH)
+Led the architecture, design, and development of financial products at Fidelity
+Investments, focusing on banking, payments, and investment platforms for small
+business applications. Architected full-stack development, system architecture, and
+offshore collaboration to ensure scalable, secure, and high-performance financial
+solutions.
+●
+●
+●
+●
+●
+●
+Designed and implemented a financial services platform supporting real-time
+transactions, digital banking, and ACH processing for small businesses.
+Developed a scalable, service-oriented banking infrastructure, enabling
+seamless money movement, payroll processing, and fund transfers.
+Integrated fraud prevention and risk mitigation features, ensuring compliance
+with AML, KYC, and financial security regulations.
+Led end-to-end software development lifecycle, defining technical roadmaps,
+project milestones, and future scalability strategies.
+Managed onshore and offshore development teams, optimizing task allocation,
+agile delivery, and engineering execution.
+Collaborated with cross-functional teams (Product, Risk, Compliance, and
+Infrastructure) to align technical execution with business objectives.
+Technology Stack: Java EE, Ajax, Oracle DB, JSP , XML, IBM WebSphere, SOA, ACH Processing,
+Digital Banking APIs, Risk & Compliance (AML/KYC), Payment Infrastructure.
+August 2002 – April 2005: Sr. Software Developer/Technical Architect – Visa Inc.
+Designed and developed Visa’s Enhanced Payments Platform for processing commercial
+financial transactions, credit card payments, and banking integrations, ensuring
+secure, high-volume payment processing. Led end-to-end architecture and
+development of authorization, clearing, and settlement systems, optimizing transaction
+efficiency and reducing payment failures by 30%.
+●
+●
+●
+●
+●
+●
+Architected scalable payment infrastructure supporting real-time credit card
+transactions, merchant settlements, and fund transfers.
+Led a 10-member engineering team, defining technical strategy, task allocation,
+and delivery roadmaps.
+Integrated with VisaNet Payment Gateway, ensuring compliance with PCI
+security standards and banking regulations.
+Developed a multi-rail fund transfer system, enabling seamless ACH, card
+transactions, and bank settlements.
+Enhanced authorization, clearing, and settlement workflows, improving
+transaction accuracy and reducing processing latency.
+Collaborated with cross-functional teams (QA, product managers, and
+compliance) to ensure seamless end-to-end payment lifecycle management.
+Technology Stack: J2EE, JSP , EJB, XML, XSL2.0, WebSphere, WSAD, IntelliJ IDEA, MS SQL
+Server, Excelon Database, DataJunction, VisaNet Payment Gateway, Authorization, Clearing,
+Settlement, Payment Gateways, Payment Processing, Fund Transfers.

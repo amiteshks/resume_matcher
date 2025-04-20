@@ -1,0 +1,106 @@
+SANGE MUGHAM
+   Sansacorp102@gmail.com
+(408) 4444-2402
+
+
+Professional Summary
+A seasoned Business Analyst and Project Management Professional with more than 5 years of experience in Business Analysis, Project Management and Project Coordination. Experienced in Requirements Gathering, creating BRDs, FSDs, Use Cases, Detailed Process Flowcharts, User Stories and developing Project Plans. Have expertise in all phases of SDLC including requirements gathering, analysis, design, implementation, testing and deployment and familiar with both Waterfall & Agile methodologies. 
+
+CERTIFIED SCRUM MASTER with an in-depth knowledge in Scrum process framework.
+·	Acted as a liaison between Stakeholders, Business Team and IT Teams; Collaborated with different cross-functional for business process understanding and technical solutions in the process of SDLC. 
+·	Extensive experience in gathering requirements; Conducted interviews, Workshops, Q and A sessions with Stakeholders, Business users, SMEs to gather requirements. 
+·	Successful facilitator of JAD sessions.  
+·	Documented, analyzed high level Business Requirements and translated them into Functional requirement document.  
+·	Strong knowledge in creating Use Case Diagrams, Activity Diagrams and Detailed Process Flowcharts using MS VISIO for clear understanding of the requirements
+·	Managed all the requirements using RequisitePro, making requirements available to all team members.
+·	Worked on JIRA to write standard User stories. 
+·	Closely worked with Product Owner. Skilled at creating Product Backlog, writing User Stories and facilitating Daily Stand ups, Sprint Planning Meeting, Sprint Retrospective meeting, Backlog grooming session to prioritize User Stories 
+·	Worked extensively with QA team and actively participated in UAT 
+·	Worked with QA team and assisted in the generation of Test plans and Test cases.
+·	Diligent in tracking issues, tasks and action items with traceability to Work Breakdown Structure (WBS) 
+·	Performed GAP analysis by understanding and analyzing the as-Is system functionality and recommended changes, solutions to reengineer the current system and achieve to-be state.
+·	Prepared and managed detailed Project plan, Project tracker, Risk log, issue log, review logs and other service delivery process documents. 
+·	Experienced working with Onsite and remote teams 
+·	Proficiency in generating status reports and delivering PowerPoint Presentations to Vendors, Key Personnel, SME s and other team members.
+Technical Skills 
+ 
+SDLC Methodologies/Framework - WATERFALL, AGILE - SCRUM, testing, debugging
+Modeling/Documenting Tools - MS Visio, Lucid Chart
+Reporting and Statistical Tools - Tableau 
+MS-Suite – MS Word, MS Excel, PowerPoint
+Databases & Tools: MS SQL, MS Access 
+Project Management: Microsoft Project, Microsoft Visio, SharePoint , communication,
+Document Management: Electronic Document Management System (EDMS), 
+Web Technologies: Balsamiq Wireframes, 
+
+Soft Skills
+·	Excellent Communication skills -
+·	Excellent Team Player
+·	Excellent Multitasking & Facilitation skills
+·	Good Problem Solver	·	Good  Analytical skills
+·	Strong attention to detail and accuracy
+·	Good presentation skills
+
+Education
+MBA, Staffordshire University - Staffordshire, England, UK (2006 – 2008)
+Major – Project Management
+
+Professional Experience
+Business Analyst  
+Sansa Technology, Milpitas, CA
+Client – VMWare, Palo Alto , CA,  February 2016 to January 2018
+
+VMware is a global leader in cloud infrastructure and business mobility. Built on VMware's industry-leading virtualization technology, their solutions deliver a new model of IT that is fluid, instant and more secure. Project: Customer facing portal:   MyVMware.com - POS, internal for business:  CBR. As a BA, my responsibilities were: 
+·	Gathering requirements from stakeholders, SMEs and business operations team for customer facing web-pages for the 'binary' downloads of products (software and patches) and e-Commerce (purchasing of products).
+·	Acted as a Liaison between business teams and technical teams.
+·	Conducted JAD sessions and extensive client interaction for requirements analysis to identify specific user requirements and determine application needs to ensure project deliverables meet customer expectations. 
+·	Documented ,analyzed high level requirements and translated them in to BRDs, FSDs 
+·	Developed Use Cases, Activity Diagrams, Detailed Process Flowcharts using MS VISIO to further refine the requirements.
+·	Worked extensively with the QA team in developing Test Plans ,Test Cases and actively participated in UAT
+·	Performed GAP Analysis to help the business team and developers better understand the current state and required future state. 
+·	Worked on JIRA to write standard User stories; Worked closely with Product Owner and facilitated Backlog grooming session to prioritize User stories 
+·	Worked on updated 'Runbook' documents for dot com releases.
+·	Delivered Power Point presentations to Directors and stakeholders. 
+·	Responsible for Customer Web portals functional updates .
+·	Coordinated with off-shore development team, VMware.com (Bangalore, India)
+·	Provided status report to Project Manager and assisted him in all Project Management tasks.
+·	Participated actively in focus groups and steering committees.
+·	Maintained the quality and accuracy of business requirements, and communicated changes and decisions to Program Manager and project team in a timely and effective manner.
+·	Developed and maintained key project documentation (Project plan, agendas/notes, action item list, business rules/requirements)
+·	Scheduled status calls with the stake holders, management and project teams to ensure that the project risks and issues are identified, documented, communicated on time for the smooth execution of the project. 
+·	Communicated status report to PM and other team members on a weekly basis.
+
+Contracting & Commissioning Project Officer 06/2010 to 04/2011
+Contracting & Commissioning Services, Stoke-on-Trent City Council – Stoke-on-Trent, United Kingdom
+
+·	Coordinated and Managed In-house Projects, Centralized Home Care Monitoring System (CM2000) that holds all the data of Domiciliary Care Home users and the Service Providers.
+·	Partnered successfully with Project Managers, PMO offices, Service Providers and collaboratively worked with all internal and external team members to achieve project goals.
+·	Developed project plans, project specification and actively took part in budgeting with the finance team.
+·	Coordinated with different cross-functional teams and key personnel to ensure that overall business processes are well aligned with Organizational Policy & Procedures.
+·	Lead monthly review meetings with lead Service Providers and cross functional teams to review overall business process, address any key issues and ensured that a good quality service is being provided to the end users
+·	Performed GAP Analysis to understand current business process and to achieve business goals.
+·	Closely worked with Project Manager all throughout the project from designing to implementation stage and assisted him to maintain the overall, service delivery competencies and operational tasks. 
+·	Provided monthly status report to senior management on overall business operations, any changes, and key issues.
+·	Performed deep dive data analysis to identify inefficiencies and challenges in service delivery via care monitoring system and proposed improvement recommendations.
+·	Provided Quality Assurance by extensive Performance monitoring and KPI metrics
+·	Played a key role in maintaining the overall business operations, continuous improvements and effective relationship with stakeholders and cross-functional team members.
+·	Served as a primary point of contact for clients, lead Services providers and team members.
+·	Worked with team members and developed contracts in accordance with organizational policies, legal requirements, budgets, provider specifications and pricing.
+·	Played a key role in the entire Public Tendering ITT (Invitation to Tender) process for a new Care Home Contract and also worked on procurement processes relatively.
+
+
+Project Officer, 05/2009 to 09/2008
+Children Services, Stoke-on-Trent City Council – Stoke-on-Trent, England, United Kingdom
+ContactPoint is a government database that consisted of information on all children from birth to age 18 in England. The project was to implement the ContactPoint database in all 150 local authorities (County Council) in England and be accessible to at least 330,000 users with an objective to improve child protection by working closely with external partners and Safeguarding Children Board.
+·	Directly worked in the implementation of the ContactPoint database in all the local authorities including schools, colleges, and hospitals that comes under Stoke-on-Trent City Council.
+·	Served as a primary point of contact for all the users, team members, staffs within the local authority and other local authorities for all kinds of queries and technical issues throughout the project.
+·	Managed the complex database which includes highly private and confidential data. 
+·	Developed project plans, project specification.
+·	Collaborated with project teams to ensure schedules are accurate and ensured that all the changes and their impacts are accurately reflected in schedules.
+·	Monitored projects for adherence to schedule, cost and for achieving milestones
+·	Responsible for coordinating the training and development programs for all the local authority employees throughout the City to become Contact Point Users.
+·	Communicated project status report to Project Management Team (PMT) at each operational phase and submitted reports on a monthly basis. 
+·	Managed project schedules and budgets to ensure that requirements and project deliverable dates are clearly communicated and executed upon.
+·	Worked closely with project team members, trainers and local authority employees to coordinate training activities, presentations and implementation process.
+·	Maintained excellent relationships with staffs and all other business professionals at multiple levels in other local authorities across England to share ideas and knowledge for the successful implementation of the project.
+·	Delivered PowerPoint Presentations on ContactPoint in several local authorities like schools, colleges and hospitals to Directors, Team Members, Local Authority Employees, etc. 

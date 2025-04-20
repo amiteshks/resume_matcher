@@ -1,0 +1,138 @@
+
+Amish Gupta 
+Dublin, CA. Phone: (408) 409-1234 				email: aaa@hotmail.com 
+Work Authorization- US Citizen 
+
+
+Objective: 
+I am seeking a position in Web Application test design, automation, and manual SQA. 
+
+Summary: 
+·	Over 9 years of experience in testing large scale web-based software products and test automation, and over 12 years in IT 
+·	Experience in all testing related components of the Software development life cycle and working directly with Project Manager and other members of the development, project management and business teams to achieve project goals. 
+·	Developed test scripts on multiple test automation tools- Protractor, Coded UI, Selenium Web Driver, Worksoft, ECHO using C# and XML, Worksoft Performance Certify (for Performance testing). 
+·	Expertise in developing test related documentation to include test strategies, test plans, test cases, test scripts & test reports. 
+·	Design, implement, assign and execute manual or blackbox, automated and performance test scripts 
+·	Perform Defect Management and Test Execution Monitoring. 
+·	Proven bug detection and regression skills and experience with delivering high quality software products. 
+·	Familiar with backend, data migration, localization, DR, web service testing. 
+·	Experience testing complex business logics. Strong analytical and problem-solving skills. Ability to analyze requirements in-depth. 
+·	Experience testing enterprise .Net and Java Projects. 
+·	Good Knowledge of the SDLC and TDLC and proficient in most testing methodologies. Experience working on Waterfall and Agile methodology. 
+·	Knowledge of Java, SQL, C, C++, object oriented programming, HTML, JavaScript, VB, Basic etc. Sun Certified Java Programmer (SCJP). Understanding of standard web technologies like JavaScript, DOM, HTML, CSS etc. 
+·	User level knowledge of UNIX and LINUX commands. 
+·	Knowledge of test management tools -WTT and product Studio for Defect tracking and reporting-TestLink, and JIRA, Worksoft Executive Dashboard and SharePoint. 
+·	Completed WinRunner 7.2 Advanced Certificate course from Santa Clara Adult Education 
+·	Experience testing the application thoroughly and working on multiple QA projects concurrently in fast paced environment. 
+·	Experience working with Software Capability Maturity Model. 
+·	Developed websites for Non-profit organizations using HTML, JavaScript, CSS, SQL, IIS. 
+·	Self- motivated passion for quality and passionate about delivering quality software on time. 
+
+Skills: 
+Languages: JAVA 2, C, C++, SQL 
+RDBMS: Sybase 11, SQL, Oracle 
+Testing Tools: Protractor, Coded UI, SharePoint, WTT, MTM, MS VS, Product Studio, QTP, WinRunner, Worksoft Certify, Certify Performance Test, Selenium 2.0, 
+Protocols: TCP/IP, HTTP 
+Operating Systems: Linux, UNIX and Windows, familiarity with Mac OS. 
+Others: Software Engineering, CMM, and Quality Management 
+Work Experience- 
+
+New Leaf Lending, CA 					Nov 2014 to Current 
+Senior QA Engineer
+New Leaf Lending is a mortgage shopping and technology company that originates and services residential home loans through three distribution channels: online direct-to-consumer, wholesale and traditional retail. The company has a cutting-edge Intelligent Mortgage Platform architected to manage a simple, transparent loan process that puts the customer in control. My roles and responsibilities- 
+·	Plan, develop and execute software testing tasks for applications developed using various technologies.
+·	Attending scrum/agile meeting to understand requirement and provide progress updates. Work with onshore, off-shore Development and QA team to test and sign off the stories.
+·	Perform functional, integration, system, regression, compatibility, performance testing of the applications. 
+·	Backend testing and data validation.
+·	End to end execution of automated scripts for smoke, regression and release test and communicating test status to the team. 
+·	Report issues found by manual and automation tests. 
+·	Ad-hoc or exploratory testing. 
+·	Post-release testing. 
+·	Mentoring members of the team.
+Environment: Coded UI, Protractor, AngularJs, .Net, C#, Java Script, SharePoint, Microsoft Visual Studio, TFS, Encompass 
+
+BMS , CA 								March to Nov 2014 
+Senior QA Engineer 
+·	Working for Biological Discovery and Computing Systems unit of Bristol-Myers Squibb. BMS is a global biopharmaceutical company whose mission is to discover, develop and deliver innovative medicines that help patients prevail. My responsibility is to test the applications used by scientists of BMS to help streamline processes and produce better data to analyze. 
+·	Software Test Engineer for web applications used by scientists at BMS. 
+·	Analyze requirements, create and execute test cases to verify the functionalities. 
+·	Functional, Integration, System, regression testing of the applications. 
+·	Writing test scripts using coded UI for automating test scenarios. 
+·	Backend testing of the applications. 
+·	Writing and executing SQL queries to test/verify stories/requirements 
+·	Testing the mobile application on Windows Mobile device. 
+·	Attending scrum/agile meeting to understand requirement and provide progress updates 
+·	Interacting with Tech lead/Developers, conducting UAT and collecting feedback from users. 
+
+Environment: .Net, C#, Java Script, MS SQL Server Management Studio, MS Test Manager, SharePoint, Microsoft Visual Studio, Windows Mobile Device Center, Windows Mobile Professional, IE 
+
+eBay Inc. 								Apr 2011 to Dec 2013 
+Senior QA Consultant 
+eBay is the World's Online Marketplace for the sale of goods and services by a diverse community of individuals and businesses. Working for the Finance and Legal team of eBay Inc., independently handling QA testing and automation for various web applications and web portals. My responsibility is to drive releases on a bi-weekly basis and ensure a bug-free release, perform functional validation, provide timely and actionable feedback to developers as early as possible in the development cycle, leveraging automation for efficiency and consistency. 
+·	Lead QA for the Legal projects of eBay Inc. & responsible for QA planning, design and execution of various web applications and web portals. 
+·	Analyze business requirements, design documents for completeness and testability and as a basis for testing documentation and product understanding. 
+·	Functional, Integration, System, regression, Ad-hoc, data migration and performance testing on various web applications, portals, Remedy Applications and communicating the status to the team. Grey-box testing. 
+·	Communicates with Project team, on-shore and offshore regarding test planning, test execution status, project progress, and issue resolution. 
+·	Interacting with Business to take the requirements for testing, automation and conducting UAT and post release verification. 
+·	Helping development team in triaging production issues and verifying the fix in QA and production environment. 
+·	Build automated scripts using Worksoft Certify and Selenium Webdriver automation tool for various portals from scratch and maintain the automation regression library based on new business processes 
+·	Testing and signing off stories for different releases for portals, applications and logging defects into the defect tracking system in accordance with the QA standards. Monitoring and re-testing defects that have been fixed by Development. 
+·	Back-end testing -Remedy, SQL of the portals to verify the data. 
+·	Verifying data using PayPal Tools. 
+·	Writing Visual Basic scripts on need basis. 
+·	Testing the web portals on mobile devices. 
+·	Browser compatibility testing. 
+·	Integral part of scrum/agile team 
+·	Estimate testing effort, prioritize projects and help rollout changes. 
+·	Experience in testing third party developed software for eBay. 
+·	Mentoring junior/senior members of the team 
+
+Environment: Java, .Net, SQL Server 2012, BMC Remedy ARS v8.1 , XML Gateway, Oracle 10g, Apache Tomcat, IIS, Worksoft Certify, Certify Performance, Selenium 2.0, SharePoint, SAP, SAP CLM, GRC, Fusion eDiscovery, Firebug, Fiddler, DW, UNIX 
+
+Kenovate Solutions 							Mar 2008 to Jan 2011 
+QA Consultant 
+Responsibilities: My responsibility was to test and verify websites to assure quality and identify potential improvement opportunities. Finding new projects and communicating with the clients as and when needed. 
+·	Managing testing of website kenovate.com, marketpressrelease.com etc. 
+·	Manual, blackbox, functional, regression and integration testing, end to end and test automation of the websites. 
+·	Created test plan, test cases and bug reports. 
+·	Ad-hoc testing. Tested the website for page content, broken links, images, color, pop-up windows, buttons, forms, text boxes etc. 
+·	Developed automated test scripts using Selenium 2.0, WebDriver, TestNG. 
+·	Back-end testing to verify the data. 
+·	SEO testing 
+·	Tested .Net and PHP application/websites 
+·	Cross browser testing IE , Firefox, Chrome, Safari 
+·	Reporting defects and conduct fix verification. 
+·	Testing the websites, portals on mobile devices. 
+·	Mentoring junior testers when needed 
+
+Environment: Windows Vista, Windows XP, PHP, MySQL, .Net, SQL, HTML, DHTML, JavaScript, Selenium 2.0, eclipse, Firebug, Eclipse, XML, TestNG 
+
+Microsoft, Mountain View, CA 					Dec 2006 to Jul 2007 
+SDET II 
+Responsibilities: My responsibility was to automate the scripts for build verification and to test and verify software to assure quality and identify potential improvement opportunities- 
+·	Writing automated test scripts using C# and XML in ECHO framework, executing automated tests and analyzing result. 
+·	Running the automated test scripts and investigating and modifying the test script code to accommodate changes. Reporting the regression. 
+·	Modified the existing scripts to take configuration parameters from XML file. Published the user documentation. 
+·	Update wiki on need basis. 
+·	Peer Review of the automation scripts 
+·	Created test web pages. 
+·	Wrote scripts for data analysis. 
+·	Manual, blackbox, functional, integration and end to end, regression testing of website live.com, Vista gadgets and Calendar application 
+·	Logging defects into the defect tracking system in accordance with the QA standards. 
+·	Monitoring and re-testing defects that have been fixed by Development. 
+·	Participate in Defect Review meetings 
+·	Ad-hoc or exploratory testing. 
+
+Environment: Windows Vista, Windows XP, Visual Studio, WTT, Product studio, .Net, XML, IE, Developers Tools, IIS. 
+CareSoft Inc. NJ Nov. 2002 to Feb 2005 
+Software Consultant 
+Worked as Software consultant for CareSoft Inc. CareSoft is mid-size IT Solution Company working in various fields of Internet technologies. 
+Responsibilities: 
+·	Functional, Integration, System, Regression, Testing of web applications 
+·	Developed Websites using FrontPage, JavaScript, SQL, IIS 
+·	Data analysis for various clients. 
+·	As CMM group coordinator helped in optimization of processes, from ad hoc practices, to formally defined steps. 
+·	Developed various metrics for the group. 
+
+Education: Master of Science, India 
+Certifications: Sun Certified Java Programmer (SCJP) 
