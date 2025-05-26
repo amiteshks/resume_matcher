@@ -1,72 +1,66 @@
 # Resume Matcher Application
 
-This project analyzes how well a candidate's resume matches a given job description using Natural Language Processing (NLP) techniques. It extracts, compares, and scores technical and soft skills from resumes and job descriptions, providing insights for automated resume screening and profile matching.
+**Author:**  Amitesh Sinha
 
+## Executive Summary
 
-## Features
+The Resume Matcher Application leverages Natural Language Processing (NLP) techniques to analyze and quantify how well a candidate's resume aligns with a specific job description. By extracting and comparing technical and soft skills, the tool provides match scores and visual insights, facilitating automated resume screening and profile matching.
 
-- Load resumes in `.pdf`, `.docx`, and `.txt` formats
-- Extract text using `pdfplumber`, `python-docx`, or plain text reading
-- Clean and tokenize resume and job description content
-- Extract technical and soft skills
-- Compare skills using:
-  - Exact keyword matching
-  - TF-IDF
-  - N-gram analysis
-- Calculate skill match scores and resume fitness
-- Generate visualizations:
-  - Word clouds
-  - Skill match bar charts
-  - Cosine similarity scores
+## Rationale
 
-## How It Works
+In the competitive job market, recruiters often face the daunting task of sifting through numerous resumes to find the right candidate. This application addresses the need for an efficient, automated solution to assess resume relevance, thereby streamlining the recruitment process and reducing manual effort.
 
-### Section 1: Data
-- Resumes and job descriptions are stored in the `Data/` folder.
-- Accepts `.pdf`, `.docx`, and `.txt` file formats.
+## Research Question
 
-### Section 2: Pre-processing
-- Extracts raw text content from resumes and job descriptions.
-- Tokenizes, removes stopwords, and cleans the data.
+How can NLP techniques be utilized to effectively compare and score the alignment between a candidate's resume and a job description?
 
-### Section 3: Exploratory Data Analysis (EDA)
-- Displays basic stats: document counts, word counts, histogram of lengths.
-- Shows most common words using frequency and word cloud visualizations.
+## Data Sources
 
-### Section 4: Skills & Keywords Extraction
-- Extracts technical and soft skills from text.
-- Computes overlap between job requirements and resume skills.
+- Resumes and job descriptions stored in the `Data/` folder.
+- Supported file formats: `.pdf`, `.docx`, and `.txt`.
 
-### Section 5: Resume Fitness Scoring
-- Calculates:
-  - Hard skill match score
-  - Soft skill match score
-  - Overall resume matching score
-- Displays top matched skills per resume.
+## Methodology
 
-### Section 6: Visualization
-- Word clouds
-- Bar charts of matched skills
-- Cosine similarity heatmap (optional)
+**Data Extraction:**  
+- Utilize `pdfplumber` for PDFs, `python-docx` for Word documents, and plain text reading for `.txt` files to extract textual content.
 
-## Future Enhancements
+**Pre-processing:**  
+- Tokenize text, remove stopwords, and clean data to prepare for analysis.
 
-- Automatically extract bigrams and trigrams (e.g., "machine learning", "project management")
-- Compare resumes across multiple job descriptions
-- Include education, experience, and contact info extraction
-- Detect missing sections or inconsistencies
-- Use pretrained models for named entity recognition (NER)
+**Exploratory Data Analysis (EDA):**  
+- Generate statistics such as document counts and word counts.  
+- Visualize data using histograms and word clouds to identify common terms.
 
-## Technologies Used
+**Skills & Keywords Extraction:**  
+- Extract technical and soft skills from both resumes and job descriptions.  
+- Compute overlap and relevance between extracted skills.
 
-- Python
-- pandas, numpy
-- nltk, spaCy
-- sklearn (TF-IDF, cosine similarity)
-- matplotlib, seaborn, wordcloud, plotly
+**Resume Fitness Scoring:**  
+- Calculate match scores for hard skills, soft skills, and overall alignment.  
+- Highlight top-matched skills for each resume.
 
-## How to Run
+**Visualization:**  
+- Create word clouds, bar charts for matched skills, and optional cosine similarity heatmaps to present findings.
 
-1. Clone the repo:
+## Results
+
+The application successfully processes various resume formats, extracts pertinent skills, and quantifies the alignment with job descriptions. Visual tools like word clouds and bar charts provide intuitive insights into the matching process, aiding recruiters in decision-making.
+
+## Next Steps
+
+- Implement automatic extraction of bigrams and trigrams (e.g., "machine learning", "project management").
+- Enable comparison of resumes across multiple job descriptions.
+- Incorporate extraction of education, experience, and contact information.
+- Develop features to detect missing sections or inconsistencies in resumes.
+- Integrate pretrained models for named entity recognition (NER) to enhance information extraction.
+
+## Outline of Project
+
+- [Link to notebook](https://github.com/amiteshks/resume_matcher/blob/main/resume_match.ipynb)
+
+### Contact and Further Information
+
+For more details, please refer to the project's GitHub repository: [Resume Matcher Application](https://github.com/amiteshks/resume_matcher)
+
 
 
